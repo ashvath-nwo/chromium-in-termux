@@ -1,6 +1,7 @@
 # chromium-in-termux
+![Alt text](https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/Screenshot_20250419_153458_Brave.jpg)
 
-If you're here for installing chromium in termux!
+If you're here for installing chromium in termux
 #
 This method does not require proot-distro or AnLinux
 #
