@@ -15,11 +15,21 @@ pkg install wget
 # scripts
 The first script is for installing chromium in termux
 #
-wget https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/chromium.sh && chmod +x chromium.sh && ./chromium.sh && rm -f chromium.sh
+
+<a name=chromium-installation-command></a>
+- `Chromium installer for Termux` :
+```bash
+'wget https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/chromium.sh && chmod +x chromium.sh && ./chromium.sh && rm -f chromium.sh'
+```
 #
 You might have to wait till chromium installs
 # 2nd Script
-wget https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/PulseXFCE4.sh && chmod +x PulseXFCE4.sh &&./PulseXFCE4.sh && rm -f PulseXFCE4.sh
+
+<a name=Pulseaudio-and-XFCE4-installation-command></a>
+- `Pulseaudio and XFCE4 installation command` :
+```bash
+'wget https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/PulseXFCE4.sh && chmod +x PulseXFCE4.sh &&./PulseXFCE4.sh && rm -f PulseXFCE4.sh'
+```
 #
 This will install PulseAudio and XFCE4 for Termux
 # Why is it necessary to install Pulseaudio and XFCE4
