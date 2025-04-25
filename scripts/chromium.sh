@@ -1,5 +1,6 @@
 pkg update
 pkg install tur-repo
+ppg install x11-repo
 pkg search browser
 pkg install chromium 
 echo Chromium is installed. You can use it in Desktop environments like XFCE4 using Termux x11
