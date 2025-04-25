@@ -41,7 +41,5 @@ Yes, as it provides Xserverfor Termux and necessary for viewing the Desktop Envi
 # Download Termux:X11
 Termux-X11 (Xserver)** : Required for running graphical applications within Termux, providing a graphical user interface for running apps
   [![Download Termux-X11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - click to download
-# Notice
-Before executing the Chromium script Execute the Pulseaudio and XFCE4 one first as it gives an error is you try the chromium one first.
 # Tested devices
 It was tested in Samsung Galaxy M12 with Termux Version 0.118.0
