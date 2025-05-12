@@ -1,4 +1,4 @@
-pkg update 
+apt update 
 pkg install x11-repo -y
 pkg install termux-x11-nightly -y
 pkg install xfce4 -y
