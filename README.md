@@ -1,7 +1,7 @@
 # chromium-in-termux
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg)
 
-If you're here for installing chromium in termux
+Install chromium in termux
 #
 This method does not require proot-distro or AnLinux
 # scripts
