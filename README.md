@@ -6,7 +6,7 @@ The first script is for installing chromium in termux
 #
 
 <a name=chromium-installation-command></a>
-- `Chromium installer for Termux` :
+- `Chromium installation Script. (Just copy and paste)` :
 ```bash
 curl -o chromium.sh https://raw.githubusercontent.com/ashvath-nwo/chromium-in-termux/refs/heads/main/scripts/chromium.sh && chmod +x chromium.sh && ./chromium.sh && rm -f chromium.sh
 ```
